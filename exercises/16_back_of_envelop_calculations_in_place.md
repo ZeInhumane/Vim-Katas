@@ -3,7 +3,8 @@
 Suppose that we've just typed the following:
 
 ```text
-6 chairs, each costing $35, totals $
+6 chairs, each costing $35, totals $6*35
+j
 ```
 
 `A` - append mode

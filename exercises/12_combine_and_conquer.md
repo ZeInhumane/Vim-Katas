@@ -2,10 +2,10 @@
 
 Use this text for practicing:
 
-```text
-This is some text, I hope you like it.
-  one more
- and more
+```TEXT
+HI THIS IS DELETED 2 TEXTS, I HOPE YOU LIKE IT.
+  ONE MORE
+        AND MORE
 ```
 
 Do the following exercises on it:

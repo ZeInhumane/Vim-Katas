@@ -1,6 +1,6 @@
 ### Delete in insert mode
 
-This is again some text.
+This is again
 
 Type the sentence again and practice these:
 
