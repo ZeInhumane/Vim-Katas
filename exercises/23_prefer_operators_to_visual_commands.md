@@ -3,7 +3,7 @@
 Change the text in the tags to be upper-case.
 
 ```html
-<a href="#">one</a>
+<a href="#">ONE</a>
 <a href="#">two</a>
 <a href="#">three</a>
 ```
