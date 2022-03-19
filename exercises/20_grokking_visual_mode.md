@@ -3,7 +3,7 @@
 Given the following text:
 
 ```texkt
-I like April better than anything.
+I like test better than anything.
 ```
 
 Change the word "March" to "April"

@@ -12,7 +12,7 @@ Replace the first and third occurrence of "content" with "copy" in this text:
 
 Steps.
 
-1. Find the word content by `/content`
+1. Find the word copy by `/content`
 2. Replace the word by `cw copy`
 3. Go to the next one `n`
 4. Go to the last one `n`

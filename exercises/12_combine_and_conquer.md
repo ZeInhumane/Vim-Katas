@@ -3,7 +3,7 @@
 Use this text for practicing:
 
 ```TEXT
-HI THIS IS DELETED 2 TEXTS, I HOPE YOU LIKE IT.
+      TEST IS DELETED 2 TEXTS, I HOPE YOU LIKE IT.
   ONE MORE
         AND MORE
 ```
