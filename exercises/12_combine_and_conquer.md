@@ -8,7 +8,7 @@ Use this text for practicing:
         AND MORE
 ```
 
-Do the following exercises on it:
+Do the foll hi these 2 words are changed on it:
 
 `2cw` - change 2 words
 `2dw` - delete 2 words
